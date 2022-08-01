@@ -1,3 +1,15 @@
+
+# Deployed on heroku : https://turing-tech.herokuapp.com/
+
+1. Protected routes
+2. token verification
+3. Material-ui for design
+4. paginated list
+5. pusher sbscribed to channel successfully
+6. pusher listening to event (but data not updated)
+7. filtering on frontend
+
+
 # :phone: TuringTech - Frontend technical test (Intermediate)
 
 This test is a part of our hiring process at TuringTech for the Frontend Engineer position. It should take you between 3 to 5 hours, depending on your experience, to implement the minimal version. But we thought about a few bonuses, so feel free to spend some time on them if you want.
